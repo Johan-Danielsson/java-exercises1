@@ -2,7 +2,7 @@ package se.johan;
 
 import java.util.Scanner;
 
-public class Task4_HelloUserNameInput {
+public class Task5_HelloUserNameInput {
     public static void main(String[] args) {
 
         Scanner name = new Scanner(System.in);
